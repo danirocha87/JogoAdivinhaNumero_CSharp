@@ -1,0 +1,15 @@
+C:\_fontes\JogoAdivinhaNumero_CSharp\JogoAdivinhaNumero_CSharp\bin\Debug\net6.0\JogoAdivinhaNumero_CSharp.exe
+C:\_fontes\JogoAdivinhaNumero_CSharp\JogoAdivinhaNumero_CSharp\bin\Debug\net6.0\JogoAdivinhaNumero_CSharp.deps.json
+C:\_fontes\JogoAdivinhaNumero_CSharp\JogoAdivinhaNumero_CSharp\bin\Debug\net6.0\JogoAdivinhaNumero_CSharp.runtimeconfig.json
+C:\_fontes\JogoAdivinhaNumero_CSharp\JogoAdivinhaNumero_CSharp\bin\Debug\net6.0\JogoAdivinhaNumero_CSharp.dll
+C:\_fontes\JogoAdivinhaNumero_CSharp\JogoAdivinhaNumero_CSharp\bin\Debug\net6.0\JogoAdivinhaNumero_CSharp.pdb
+C:\_fontes\JogoAdivinhaNumero_CSharp\JogoAdivinhaNumero_CSharp\obj\Debug\net6.0\JogoAdivinhaNumero_CSharp.csproj.AssemblyReference.cache
+C:\_fontes\JogoAdivinhaNumero_CSharp\JogoAdivinhaNumero_CSharp\obj\Debug\net6.0\JogoAdivinhaNumero_CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\_fontes\JogoAdivinhaNumero_CSharp\JogoAdivinhaNumero_CSharp\obj\Debug\net6.0\JogoAdivinhaNumero_CSharp.AssemblyInfoInputs.cache
+C:\_fontes\JogoAdivinhaNumero_CSharp\JogoAdivinhaNumero_CSharp\obj\Debug\net6.0\JogoAdivinhaNumero_CSharp.AssemblyInfo.cs
+C:\_fontes\JogoAdivinhaNumero_CSharp\JogoAdivinhaNumero_CSharp\obj\Debug\net6.0\JogoAdivinhaNumero_CSharp.csproj.CoreCompileInputs.cache
+C:\_fontes\JogoAdivinhaNumero_CSharp\JogoAdivinhaNumero_CSharp\obj\Debug\net6.0\JogoAdivinhaNumero_CSharp.dll
+C:\_fontes\JogoAdivinhaNumero_CSharp\JogoAdivinhaNumero_CSharp\obj\Debug\net6.0\refint\JogoAdivinhaNumero_CSharp.dll
+C:\_fontes\JogoAdivinhaNumero_CSharp\JogoAdivinhaNumero_CSharp\obj\Debug\net6.0\JogoAdivinhaNumero_CSharp.pdb
+C:\_fontes\JogoAdivinhaNumero_CSharp\JogoAdivinhaNumero_CSharp\obj\Debug\net6.0\JogoAdivinhaNumero_CSharp.genruntimeconfig.cache
+C:\_fontes\JogoAdivinhaNumero_CSharp\JogoAdivinhaNumero_CSharp\obj\Debug\net6.0\ref\JogoAdivinhaNumero_CSharp.dll
